@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cosmin1805
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning node.js
+- 🌱 I’m currently learning node.js, C, JAVA and mathlab
 - 💞️ I’m looking to collaborate on some of my projects
 - 📫 How to reach me cosmin1805.github@gmail.com
 
